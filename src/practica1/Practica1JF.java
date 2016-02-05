@@ -10,7 +10,7 @@ package practica1;
  *
  * @author alumno
  */
-public class Practica1 {
+public class Practica1JF {
 
     /**
      * @param args the command line arguments
